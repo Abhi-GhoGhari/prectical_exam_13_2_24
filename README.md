@@ -1,16 +1,8 @@
 # prectical_exam_13_2_24
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## homepageh
+![Screenshot_20240213_140116.png](..%2F..%2F..%2FScreenshot_20240213_140116.png)
+## detialpage
+![Screenshot_20240213_140238.png](..%2F..%2F..%2FScreenshot_20240213_140238.png)
+## cartpage
+![Screenshot_20240213_140314.png](..%2F..%2F..%2FScreenshot_20240213_140314.png)
